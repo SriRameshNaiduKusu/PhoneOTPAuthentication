@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "79879766168",
+    "firebase_url": "https://phoneotpauthentication.firebaseio.com",
+    "project_id": "phoneotpauthentication",
+    "storage_bucket": "phoneotpauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79879766168:android:2987d0d8803960bc",
+        "android_client_info": {
+          "package_name": "in.cyberworldtechnologies.phoneotpauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79879766168-55kve02ibu0mhqt08nbm4m267laefudo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.cyberworldtechnologies.phoneotpauthentication",
+            "certificate_hash": "24e1499e024dab526f785e7143bc3cd83a50faae"
+          }
+        },
+        {
+          "client_id": "79879766168-k3epjl4ib5i1bdml33iij9gom088v6q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARgBSdk0WUlTdqLA1XXY6zYAha9-8KxVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79879766168-k3epjl4ib5i1bdml33iij9gom088v6q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
